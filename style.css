@@ -1,0 +1,110 @@
+
+.top-section{
+    background-color: #F0FFF0;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+.navbar img{
+    max-width: 700px;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: black;
+    font-size: 18px;
+}
+.btn{
+    padding: 7px 12px;
+    background-color: #21B573;
+    width: 90px;
+    border-radius: 35px;
+    color: white !important;
+}
+.banner{
+    margin-top: 100px;
+}
+.heading{
+    max-width: 400px;
+}
+.heading h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.heading p{
+    color: gray;
+}
+.heading span{
+    color: #21B573;
+}
+.started-btn{
+    border: none;
+    background-color: #21B573;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+.categories img{
+    width: 60px;
+    height: 70px;
+
+}
+
+.card-category{
+    border: none;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+}
+.card:hover{
+    background-color: white;
+    box-shadow: 0px 0px 15px -5px gray;
+    cursor: pointer;
+}
+.card-title{
+    color: #413960;
+}
+.card-text{
+    color: #585859, 100%;
+}
+
+
+.course-card{
+    border: none;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px 20px;
+}
+.card-footer{
+    color: #585859;
+    border: none;
+    background-color: #F8FFFB;
+}
+.icon{
+    width: 30px;
+}
+
+.test-bio img{
+    width: 150px;
+}
+.test-details{
+    max-width: 580px;
+    margin-left: 25px;
+}
+.bottom-section{
+    background-color: #282531;
+    color: white;
+    padding-top: 50px;
+}
+.left p{
+    max-width: 364px;
+}
+.right ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: 200;
+    font-size: 15px;    
+}
+
+.footer{
+    margin-top: 30px;
+    color: gray;
+}
